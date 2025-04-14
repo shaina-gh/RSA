@@ -50,7 +50,7 @@ java RSA
 
 ---
 
-##🧪 Sample Input/Output
+## 🧪 Sample Input/Output
 
 ### 🔢 Numeric Example
 ```text
